@@ -1,0 +1,1 @@
+print("Hi this is test for starting python along with java and C++")
