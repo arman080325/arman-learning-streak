@@ -41,10 +41,10 @@ Because learning doesn't clock out at the end of a course module.
 
 | Metric | Count |
 |--------|-------|
-| 🔥 Current streak | **__ days** |
-| 📅 Total logs pushed | **__ days** |
+| 🔥 Current streak | **1 days** |
+| 📅 Total logs pushed | **1 days** |
 | 📆 Started on | **12 June 2026** |
-| 🏆 Longest streak | **__ days** |
+| 🏆 Longest streak | **1 days** |
 
 > *Update this table manually every Sunday. Seeing the number grow is the whole game.*
 
