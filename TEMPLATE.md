@@ -157,10 +157,8 @@ README.md  ← link to this folder, show your streak
 
 
 Your daily git ritual (3 commands, make it a habit):
+Two scripts, two moments of the day:
 
-
-bashcp TEMPLATE.md logs/$(date +%F).md   # creates today's file automatically
-# fill the file throughout the day, then at EOD:
-git add . && git commit -m "log: $(date +%F)" && git push
-The $(date +%F) auto-inserts today's date — no typos, no thinking.
--->
+Script             When                           Command
+newday.ps1         First thing in the morning     .\newday.ps1
+pushlog.ps1        Last thing before sleep        .\pushlog.ps1
