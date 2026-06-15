@@ -1,6 +1,6 @@
 # pushlog.ps1 - Night: commits and pushes today's log
 
-git pull --rebase origin main
+
 
 $today = Get-Date -Format "yyyy-MM-dd"
 
