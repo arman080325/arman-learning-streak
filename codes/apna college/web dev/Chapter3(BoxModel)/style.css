@@ -1,0 +1,12 @@
+div{
+    height: 200px;
+    width:500px;
+    background-color: darkcyan;
+    border-width: 2px;
+    border-style: groove;
+    border-color:crimson;
+}
+
+li{
+    display: inline;
+}
