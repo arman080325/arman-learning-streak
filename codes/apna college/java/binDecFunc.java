@@ -7,7 +7,7 @@ public class binDecFunc {
         int decNum=0;
         int power=0;
         int orgBin=bin;
-        while(bin>0)
+        while(bin>0)//101
         {
             int lastDigit=bin%10;
             decNum=decNum+(lastDigit*(int)Math.pow(2,power));
