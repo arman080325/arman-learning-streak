@@ -1,5 +1,15 @@
 # 📅 Daily Progress Log — [DD-MM-YYYY]
 
+
+<span style="color:red;"><b><i>Important Updates for the upcoming few months (From 26-06-2026)</i></b></span>
+
+<span style="color:green;"><b><i>1- DSA and Programming - C++ will be paused from Chapter 15 (Arrays Part 1) till the completion of Java.</i></b></span>
+
+<span style="color:green;"><b><i>2- Web Development - It will also be paused from Chapter 12 - CSS Part 6 till the completion of Supplementary Exam and a mandatory revision up to the covered part before resuming it.</i></b></span>
+
+<span style="color:green;"><b><i>3- Continuation - Only Java DSA & NVH Ethical Hacking Course will be continued during the Supplementary Exams (22-07-2026).</i></b></span>
+
+
 > *"I am not who I was yesterday. I am who I choose to become today."*
 > — Arman Ahemad Khan
 
