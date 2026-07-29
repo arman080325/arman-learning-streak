@@ -3,7 +3,10 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello World")
+	fmt.Println("Hello Arman")
 	//variables()
-	constants()
+	//constants()
+	//forloop()
+	//ifelse()
+	switchcase()
 }
