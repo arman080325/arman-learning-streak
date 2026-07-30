@@ -8,5 +8,6 @@ func main() {
 	//constants()
 	//forloop()
 	//ifelse()
-	switchcase()
+	//switchcase()
+	arrays()
 }
