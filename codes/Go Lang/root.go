@@ -9,5 +9,6 @@ func main() {
 	//forloop()
 	//ifelse()
 	//switchcase()
-	arrays()
+	//arrays()
+	slicess()
 }
