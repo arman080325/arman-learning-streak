@@ -10,5 +10,6 @@ func main() {
 	//ifelse()
 	//switchcase()
 	//arrays()
-	slicess()
+	//slicess()
+	mapss()
 }
