@@ -11,5 +11,6 @@ func main() {
 	//switchcase()
 	//arrays()
 	//slicess()
-	mapss()
+	//mapss()
+	rangee()
 }
