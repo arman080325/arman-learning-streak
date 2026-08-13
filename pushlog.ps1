@@ -10,3 +10,4 @@ git push
 
 Write-Host "Day $today locked in. Sleep well." -ForegroundColor Cyan
 
+# Get-ChildItem -Recurse -Filter *.class -File | Remove-Item -Force
