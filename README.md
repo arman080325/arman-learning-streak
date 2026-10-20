@@ -1,4 +1,4 @@
-# 📓 Daily Progress — Arman Ahemad Khan
+# 📓 Daily Progress of Arman Ahemad Khan
 
 > *"Most people overestimate what they can do in a day and underestimate what they can do in a year of consistent days."*
 
