@@ -85,7 +85,7 @@ Learning through the **New Version Hacker (NVH) Ethical Hacking Course**, practi
 
 The streak is calculated from distinct daily log dates in the repository's commit history. Multiple commits on the same date count as one day. The current date's entry is counted only after it is actually pushed.
 
-I’m keeping the total number of log files and all-time longest streak out of this snapshot until they can be counted reliably from the complete repository history. No inflated numbers.
+The longest streak is calculated from distinct daily log dates in the repository's commit history. Multiple commits on the same date count as one day.
 
 ## Milestones
 
