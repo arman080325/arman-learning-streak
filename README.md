@@ -91,9 +91,9 @@ The **daily log streak** is calculated from distinct dated log commits in this r
 ## Milestones
 
 - [x] 🟢 **7 days** — One week of showing up.
-- [ ] 🟡 **21 days** — Three weeks of consistency.
-- [ ] 🟠 **30 days** — One month of documented progress.
-- [ ] 🔴 **60 days** — Two months of compounding effort.
+- [x] 🟡 **21 days** — Three weeks of consistency.
+- [x] 🟠 **30 days** — One month of documented progress.
+- [x] 🔴 **60 days** — Two months of compounding effort.
 - [ ] 🔥 **90 days** — A full quarter of consistency.
 - [ ] 💀 **180 days** — Half a year of proof.
 - [ ] 👑 **365 days** — One complete year.
