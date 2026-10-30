@@ -81,11 +81,12 @@ Learning through the **New Version Hacker (NVH) Ethical Hacking Course**, practi
 | 📅 Started | **12 June 2026** |
 | 🗓️ Latest daily log commit | **29 October 2026** |
 | 🔥 Current consecutive log streak | **10 days** *(20–29 October 2026)* |
+| 🏆 Longest GitHub contribution streak | **84 days** *(12 June–3 September 2026; portfolio contribution matrix)* |
 | 📌 Streak status | **As of the latest pushed log** |
 
 The streak is calculated from distinct daily log dates in the repository's commit history. Multiple commits on the same date count as one day. The current date's entry is counted only after it is actually pushed.
 
-The longest streak is calculated from distinct daily log dates in the repository's commit history. Multiple commits on the same date count as one day.
+The **daily log streak** is calculated from distinct dated log commits in this repository (multiple commits on the same date count as one day). The **84-day GitHub contribution streak** is a separate metric reported by my portfolio's GitHub Contribution Matrix, covering activity across GitHub rather than necessarily one daily log in this repository.
 
 ## Milestones
 
