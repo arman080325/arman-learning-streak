@@ -1,55 +1,90 @@
-# 📓 Daily Progress — Arman Ahemad Khan
+<!--
+  ARMAN LEARNING STREAK
+  A visual journal of consistency, engineering, and continuous learning.
+-->
 
-> *“Most people overestimate what they can do in a day and underestimate what they can do in a year of consistent days.”*
+<div align="center">
 
-A public record of the work, practice, experiments, mistakes, and small wins that happen when I keep showing up.
+# 📓 Arman's Learning Streak
 
-[![GitHub](https://img.shields.io/badge/GitHub-arman080325-181717?style=for-the-badge&logo=github)](https://github.com/arman080325)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A7B70?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.arman-portfolio.online/)
-[![Started](https://img.shields.io/badge/Started-12%20June%202026-blue?style=for-the-badge)](#progress-snapshot)
+### Building skills. Shipping projects. Showing up every day.
 
----
+*A public journal of the small steps that compound into meaningful progress.*
 
-## Why this repository exists
+[![GitHub](https://img.shields.io/badge/GitHub-arman080325-181717?style=flat-square&logo=github)](https://github.com/arman080325)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A7B70?style=flat-square&logo=google-chrome&logoColor=white)](https://www.arman-portfolio.online/)
+[![Started](https://img.shields.io/badge/Started-12%20June%202026-2563EB?style=flat-square)](#-progress-dashboard)
 
-This repository is first and foremost a commitment to myself.
+> **“Most people overestimate what they can do in a day and underestimate what they can do in a year of consistent days.”**
 
-It is for the version of me who almost did not open the laptop today. Every dated entry is a reminder that progress is built through ordinary days: focused sessions, confusing concepts, debugging, revision, experiments, and the decision to try again.
-
-I am not here to manufacture a perfect activity graph. I am here to document the process honestly.
-
-## The rule
-
-> **One honest progress log every day. Keep the habit alive.**
-
-Some days will have substantial code, lab work, or project progress. Other days may contain only revision, notes, or a small lesson learned. The point is to stay engaged and record what actually happened—not to invent work just to maintain a streak.
+</div>
 
 ---
 
-## About me
+## ✦ The idea behind this repository
 
-I'm a B.Tech Computer Science and Engineering student at **Silicon Institute of Technology, Bhubaneswar (2023–2027)**, currently building experience across full-stack development and cybersecurity.
+This repository is my public commitment to keep learning, building, experimenting, and documenting the process.
 
-My GitHub profile describes the two sides of my work:
+It is not a highlight reel of perfect days. It is a record of the real ones: focused sessions, confusing concepts, debugging, revision, mistakes, experiments, and small wins.
 
-- **🧩 Builder:** Full-stack web development, responsive interfaces, REST APIs, databases, and practical software projects.
-- **🛡️ Security learner:** Web application security, penetration testing, network and wireless security, digital forensics, and responsible security research.
+<div align="center">
 
-My guiding idea:
+### The one rule
 
-> *If you can build it, you can break it. If you can break it, you can harden it.*
+**One honest progress log every day. Keep the habit alive.**
 
-## What I'm learning
+</div>
 
-### ⚡ Web development and software engineering
+Some days will bring substantial code or project progress. Other days may contain only revision, notes, or one lesson learned. The goal is honest consistency—not manufacturing activity to protect a number.
+
+---
+
+## 🧭 My learning map
+
+I'm a B.Tech Computer Science and Engineering student at **Silicon Institute of Technology, Bhubaneswar (2023–2027)**, building experience across software development and cybersecurity.
+
+The map below shows how my learning areas connect.
+
+```mermaid
+flowchart TB
+    A["🚀 Continuous Learning"] --> B["💻 Software Development"]
+    A --> C["🛡️ Cybersecurity"]
+    A --> D["🧠 Core Computer Science"]
+
+    B --> B1["Frontend & UI"]
+    B --> B2["Backend & APIs"]
+    B --> B3["Databases & Deployment"]
+
+    C --> C1["Linux & Networking"]
+    C --> C2["Web Security"]
+    C --> C3["Ethical Hacking & Labs"]
+
+    D --> D1["Java & C++"]
+    D --> D2["DSA & Problem Solving"]
+    D --> D3["Computer Science Fundamentals"]
+
+    B2 -. "Secure by design" .-> C2
+    C1 -. "Understand the systems" .-> B2
+
+    classDef root fill:#172554,color:#fff,stroke:#3B82F6,stroke-width:2px
+    classDef dev fill:#0F766E,color:#fff,stroke:#2DD4BF
+    classDef sec fill:#7C2D12,color:#fff,stroke:#FB923C
+    classDef core fill:#4C1D95,color:#fff,stroke:#A78BFA
+    class A root
+    class B,B1,B2,B3 dev
+    class C,C1,C2,C3 sec
+    class D,D1,D2,D3 core
+```
+
+### 💻 Software development
 
 Learning through the **Apna College Sigma Batch**, project work, documentation, and hands-on practice.
 
-- HTML, CSS, JavaScript, and responsive UI development
+- HTML, CSS, JavaScript, responsive UI development
 - React and modern frontend workflows
 - Node.js and backend fundamentals
-- REST APIs, databases, and full-stack application development
-- Git, GitHub, deployment, debugging, and performance improvements
+- REST APIs, databases, and full-stack applications
+- Git, GitHub, deployment, debugging, and performance
 
 ### 🛡️ Cybersecurity and ethical hacking
 
@@ -60,35 +95,48 @@ Learning through the **New Version Hacker (NVH) Ethical Hacking Course**, practi
 - Web application vulnerabilities and security testing
 - Nmap, Wireshark, Burp Suite, Metasploit, and related tools
 - Wireless security, digital forensics, and vulnerability analysis
-- Documentation, responsible disclosure, and staying within authorized scope
+- Responsible disclosure and authorized security testing
 
-### 🎯 Programming, problem-solving, and independent learning
+### 🧠 Programming and computer science
 
 - Java and data structures / algorithms
 - C++ fundamentals and programming practice
-- Technical reading, tutorials, research, and project-based learning
+- Technical reading, tutorials, and research
 - Connecting development concepts with real-world security
 
-*The topics above describe my learning areas, not a claim of professional mastery. The logs are where the actual progress is documented.*
+<sub>These are learning areas, not claims of professional mastery. The daily logs document the actual work.</sub>
 
 ---
 
-## Progress snapshot
+## 📊 Progress dashboard
 
-<text></text>
 | Metric | Latest verified status |
 |---|---:|
-| 📅 Started | **12 June 2026** |
-| 🗓️ Latest daily log commit | **29 October 2026** |
-| 🔥 Current consecutive log streak | **10 days** *(20–29 October 2026)* |
-| 🏆 Longest GitHub contribution streak | **84 days** *(12 June–3 September 2026; portfolio contribution matrix)* |
-| 📌 Streak status | **As of the latest pushed log** |
+| 📅 Journey started | **12 June 2026** |
+| 🗓️ Latest daily log commit in the previous verified snapshot | **29 October 2026** |
+| 🔥 Consecutive repository log streak in that snapshot | **10 days · 20–29 October 2026** |
+| 🏆 Longest GitHub contribution streak | **84 days · 12 June–3 September 2026** |
 
-The streak is calculated from distinct daily log dates in the repository's commit history. Multiple commits on the same date count as one day. The current date's entry is counted only after it is actually pushed.
+<sub>The 84-day contribution streak is a separate GitHub-wide metric reported by my portfolio's contribution matrix. It is not the same as the consecutive daily-log streak in this repository. The figures above are the last verified snapshot, not a live counter.</sub>
 
-The **daily log streak** is calculated from distinct dated log commits in this repository (multiple commits on the same date count as one day). The **84-day GitHub contribution streak** is a separate metric reported by my portfolio's GitHub Contribution Matrix, covering activity across GitHub rather than necessarily one daily log in this repository.
+### 🏁 Milestone trail
 
-## Milestones
+A reminder that consistency is built one checkpoint at a time.
+
+```mermaid
+flowchart LR
+    M7["✓ 7 days"] --> M21["✓ 21 days"]
+    M21 --> M30["✓ 30 days"]
+    M30 --> M60["✓ 60 days"]
+    M60 --> M90["○ 90 days"]
+    M90 --> M180["○ 180 days"]
+    M180 --> M365["○ 365 days"]
+
+    classDef done fill:#14532D,color:#fff,stroke:#4ADE80
+    classDef next fill:#1E293B,color:#CBD5E1,stroke:#64748B,stroke-dasharray:5 5
+    class M7,M21,M30,M60 done
+    class M90,M180,M365 next
+```
 
 - [x] 🟢 **7 days** — One week of showing up.
 - [x] 🟡 **21 days** — Three weeks of consistency.
@@ -98,13 +146,69 @@ The **daily log streak** is calculated from distinct dated log commits in this r
 - [ ] 💀 **180 days** — Half a year of proof.
 - [ ] 👑 **365 days** — One complete year.
 
-Update a milestone only when the repository history supports it.
+Milestones are updated only when supported by the repository history.
 
 ---
 
-## Projects and practical work
+## 🔄 The daily progress loop
 
-I learn best by building, shipping, testing, and improving real things. These are examples of public projects in my GitHub account:
+The goal is not to study endlessly. It is to learn something, apply it, reflect, and return with a clearer next step.
+
+```mermaid
+flowchart TD
+    A(["☀️ Start the day"]) --> B["📚 Learn a concept"]
+    B --> C["⌨️ Practise or build"]
+    C --> D["🧪 Test, debug, experiment"]
+    D --> E["✍️ Write an honest daily log"]
+    E --> F["🎯 Choose the next small goal"]
+    F --> A
+
+    classDef start fill:#14532D,color:#fff,stroke:#4ADE80
+    classDef action fill:#172554,color:#fff,stroke:#60A5FA
+    classDef log fill:#713F12,color:#fff,stroke:#FACC15
+    class A start
+    class B,C,D,F action
+    class E log
+```
+
+### What a useful daily log contains
+
+| Section | What to capture |
+|---|---|
+| 📚 Learning | What I studied or practised |
+| 💡 Understanding | What I can now explain in my own words |
+| 🧪 Practical work | Code, projects, labs, or challenges attempted |
+| 🧩 Blockers | Mistakes, bugs, and questions to revisit |
+| ⏱️ Reflection | Time spent and an honest end-of-day review |
+| 🎯 Next step | One concrete priority for tomorrow |
+
+A small, truthful entry is better than a long entry written just to look productive.
+
+---
+
+## 🔬 A security mindset
+
+Development and security are not separate worlds. Understanding how applications are built helps me understand how they can fail—and how to make them stronger.
+
+```mermaid
+flowchart LR
+    A["🔎 Reconnaissance"] --> B["🧭 Understand the attack surface"]
+    B --> C["🧪 Authorized testing"]
+    C --> D["📋 Analyse findings"]
+    D --> E["🛠️ Recommend fixes"]
+    E --> F["🔁 Retest & improve"]
+    F -. "Continuous learning" .-> A
+```
+
+> *If you can build it, you can break it. If you can break it, you can harden it.*
+
+All security practice belongs in authorized labs, owned systems, or environments where explicit permission has been granted.
+
+---
+
+## 🧰 Projects and practical work
+
+I learn best by building, shipping, testing, and improving real things.
 
 | Project | What it represents |
 |---|---|
@@ -119,51 +223,48 @@ I learn best by building, shipping, testing, and improving real things. These ar
 | [Banking Management System](https://github.com/arman080325/Banking-Management-System-Java) | Java application and software fundamentals |
 | [Student Management System](https://github.com/arman080325/Student-Management-System-Java-Springboot) | Java and Spring Boot application |
 
-Explore the [full GitHub profile](https://github.com/arman080325) for more repositories. Project names and scopes may evolve as the work develops.
+Explore my [GitHub profile](https://github.com/arman080325) for more work. Project names and scopes may evolve as the work develops.
 
 ---
 
-## Daily workflow
+## ⚙️ My daily logging workflow
 
-The daily log template is the starting point for each entry. From the repository root, the intended workflow is:
+The daily log template is the starting point for each entry. From the repository root:
 
 ```bash
-# Create today's entry (if the logs/ directory is used)
-cp TEMPLATE.md "logs/$(date +%F).md"
+# Create today's entry (only if it does not already exist)
+mkdir -p logs
+touch "logs/$(date +%F).md"
 
-# Edit the entry throughout the day, then review it before pushing
+# Review, stage, commit, and push
 git status
 git add .
 git commit -m "log: $(date +%F)"
 git push
 ```
 
-If the repository's folder layout changes, keep the command aligned with the actual location of the daily entries. Never overwrite an existing day's log accidentally.
-
-## What belongs in a daily log?
-
-- What I studied or practised
-- What I understood, in my own words
-- Code, projects, labs, or challenges attempted
-- Mistakes, blockers, and questions to revisit
-- Time spent and an honest end-of-day review
-- One concrete priority for the next day
-
-A small, truthful entry is better than a long entry written just to look productive.
+Edit the new file before committing. If the repository's folder layout changes, keep the commands aligned with the actual location of the daily entries. Never overwrite an existing day's log accidentally.
 
 ---
 
-## On the days I don't feel like it
+## 🌱 On the days I don't feel like it
 
 There will be days when I'm tired, distracted, behind schedule, or stuck on something that should have been simple.
 
-I'll lower the scope before I abandon the habit. I can revise one concept, read documentation, fix one bug, or write a short reflection. Rest when it is needed; return without turning one difficult day into a reason to quit.
+I'll lower the scope before I abandon the habit. I can revise one concept, read documentation, fix one bug, or write a short reflection.
 
-**Consistency is not perfection. It is the decision to keep returning.**
+Rest when it is needed. Return without turning one difficult day into a reason to quit.
+
+<div align="center">
+
+### Consistency is not perfection.
+### It is the decision to keep returning.
+
+</div>
 
 ---
 
-## The bigger picture
+## 🎯 The bigger picture
 
 I want this repository to become a useful record of how I grow as an engineer: from learning fundamentals to building complete applications, from understanding networks to testing software securely, and from following tutorials to solving problems independently.
 
@@ -173,20 +274,23 @@ If someone discovers this repository during a hiring process, I hope the history
 
 ---
 
-## Find me online
+## 🔗 Find me online
 
 - 🌐 **Portfolio:** [arman-portfolio.online](https://www.arman-portfolio.online/)
 - 💻 **GitHub:** [@arman080325](https://github.com/arman080325)
 - 📓 **This repository:** [arman-learning-streak](https://github.com/arman080325/arman-learning-streak)
 
----
+<div align="center">
 
 *Started on 12 June 2026 · Progress documented one day at a time.*
 
+</div>
+
 <!--
 Maintenance notes:
-- Update the streak snapshot only after checking distinct daily log dates.
-- Tick milestones only when verified.
+- Refresh the progress snapshot only after checking distinct daily log dates.
+- Keep the repository log streak separate from the GitHub-wide contribution streak.
+- Tick milestones only when verified by repository history.
 - Keep project links aligned with public repositories.
 - Do not publish private project details or credentials here.
 -->
